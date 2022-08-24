@@ -1,0 +1,2 @@
+# ExcelVBAnotes
+ExcelVBA learning resource.
